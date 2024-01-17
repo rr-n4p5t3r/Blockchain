@@ -1,4 +1,8 @@
 ### Proyecto Blockchain ###
+
+### Anuncio Importante: ###
+El repositorio va a entrar en fase de mantenimiento y actualización en el código, por ende entrará en estado "Privado"
+
 <div>
   <img src="https://www.code-brew.com/wp-content/uploads/2017/12/blockchain_featured.jpeg" width="600" height="300"/>
 </div>
